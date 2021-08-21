@@ -3,3 +3,4 @@ san-serif
 serif
 handwriting
 open sans
+mulish
