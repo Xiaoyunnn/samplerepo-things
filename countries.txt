@@ -2,3 +2,4 @@ China
 Singapore
 uk
 usa
+japan
